@@ -1,0 +1,1 @@
+export{r as loadLocalWallet}from"./local-BL7NwWxv.js";
